@@ -1,1 +1,1 @@
-# exercise_react
+# exercises_react
